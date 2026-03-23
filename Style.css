@@ -1,0 +1,24 @@
+body {
+  background: black;
+  color: #00ff9f;
+  font-family: monospace;
+  margin: 0;
+}
+
+.terminal {
+  padding: 40px;
+}
+
+h1 {
+  color: #00ffd5;
+}
+
+.command {
+  margin-top: 30px;
+}
+
+.card {
+  border: 1px solid #00ff9f;
+  padding: 15px;
+  margin: 10px 0;
+}
